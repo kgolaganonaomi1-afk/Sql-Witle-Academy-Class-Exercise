@@ -28,27 +28,23 @@ SQL Class Exercise. Selecting and Filtering. Aggregation. Joins. Subqueries and 
 Nomsa in Finance wants the current price list. Return the SKU, product name, product line and list price 
 for every product, sorted by product line and then by price. 
 ###### Answer 1 - Every product on the price list 
-images/WhatsApp Image 2026-11-22 at 17.56.12.jpeg
+
 ![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/WhatsApp%20Image%202026-11-22%20at%2017.56.12.jpeg?raw=true)
+
 ###### Question 2 - One product line only 
 A customer has asked what single-origin coffees Sizwe sells. Return the SKU, product name, pack size 
 and list price for every product in the Single Origin line, most expensive first. 
 ###### Answer 2 - One product line only 
-%sql
-Select SKU, product name, pack_size, list price
-From sizwe_products
-Where product_line = "Single Origin"
-Order by list_price desc
+
+![image alt]
 
 ###### Question 3 - Wholesale customers in two provinces 
 The sales manager is planning a trip through Gauteng and the Western Cape. Return the customer ID, 
 trading name, province, segment and credit limit for every Wholesale customer in either of those two 
 provinces. Sort by province, then trading name. 
 ###### Answer 3 - Wholesale customers in two provinces 
-%sql
-Select customer_id, trading_name
-From Sizwe_customers
-Limit 50
+
+![image alt]
 
 ###### Question 4 - The ten largest credit limits 
 Credit control wants to review the biggest exposures first. Return the ten customers with the highest 
