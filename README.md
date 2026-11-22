@@ -58,7 +58,7 @@ Return every order placed in June 2025, showing the order ID, customer ID, order
 and channel, oldest first. 
 ###### Answer 5 - Orders in a single month 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%205.jpeg?raw=true)
 
 
 ## Part B - Aggregation
