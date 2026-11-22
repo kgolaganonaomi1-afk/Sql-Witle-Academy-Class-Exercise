@@ -10,8 +10,9 @@ SQL Class Exercise. Selecting and Filtering. Aggregation. Joins. Subqueries and 
 ## Part D - Subqueries and CTEs
 ## Part E - Window Functions
 
-## Data sets used
+## Data sets 
 
+Data Sets/
 ├── customers.csv
 ├── products.csv
 ├── sales_orders.csv
