@@ -29,7 +29,7 @@ Nomsa in Finance wants the current price list. Return the SKU, product name, pro
 for every product, sorted by product line and then by price. 
 ###### Answer 1 - Every product on the price list 
 
-![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/WhatsApp%20Image%202026-11-22%20at%2017.56.12.jpeg?raw=true)
+![image alt]
 
 ###### Question 2 - One product line only 
 A customer has asked what single-origin coffees Sizwe sells. Return the SKU, product name, pack size 
