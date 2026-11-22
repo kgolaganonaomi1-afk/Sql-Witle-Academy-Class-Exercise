@@ -36,7 +36,7 @@ A customer has asked what single-origin coffees Sizwe sells. Return the SKU, pro
 and list price for every product in the Single Origin line, most expensive first. 
 ###### Answer 2 - One product line only 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Ex%20Answer%202.jpeg?raw=true)
 
 ###### Question 3 - Wholesale customers in two provinces 
 The sales manager is planning a trip through Gauteng and the Western Cape. Return the customer ID, 
