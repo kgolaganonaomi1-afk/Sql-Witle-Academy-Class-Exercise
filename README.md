@@ -11,3 +11,13 @@ SQL Class Exercise. Selecting and Filtering. Aggregation. Joins. Subqueries and 
 ## Part E - Window Functions
 
 ## Data sets used
+
+├── customers.csv
+├── products.csv
+├── sales_orders.csv
+├── sales_lines.csv
+├── ar_ledger.csv
+├── reps.csv
+├── rep_visits.csv
+├── trade_promotions.csv
+└── vendors.csv
