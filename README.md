@@ -28,7 +28,7 @@ SQL Class Exercise. Selecting and Filtering. Aggregation. Joins. Subqueries and 
 Nomsa in Finance wants the current price list. Return the SKU, product name, product line and list price 
 for every product, sorted by product line and then by price. 
 ###### Answer 1 - Every product on the price list 
-WhatsApp Image 2026-11-22 at 17.56.12.jpeg
+images/WhatsApp Image 2026-11-22 at 17.56.12.jpeg
 
 ###### Question 2 - One product line only 
 A customer has asked what single-origin coffees Sizwe sells. Return the SKU, product name, pack size 
