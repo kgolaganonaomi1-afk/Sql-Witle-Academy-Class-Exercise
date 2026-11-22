@@ -50,7 +50,8 @@ provinces. Sort by province, then trading name.
 Credit control wants to review the biggest exposures first. Return the ten customers with the highest 
 credit limit, showing their ID, trading name, province and limit. 
 ###### Answer 4 - The ten largest credit limits 
-Select*
+
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%204.jpeg?raw=true)
 
 ###### Question 5 - Orders in a single month 
 Return every order placed in June 2025, showing the order ID, customer ID, order date, delivery date 
