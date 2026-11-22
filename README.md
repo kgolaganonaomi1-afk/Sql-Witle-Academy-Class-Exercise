@@ -75,7 +75,7 @@ For each SKU, return the total units sold, the total revenue, and the average di
 by revenue, highest first. Round revenue to two decimals and the average discount to four. 
 ###### Answer 7 - Performance by SKU 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%207.jpeg?raw=true)
 
 ###### Question 8 - Only the SKUs that matter 
 Take the previous query and keep only the SKUs with total revenue above R50 million. Also return how 
