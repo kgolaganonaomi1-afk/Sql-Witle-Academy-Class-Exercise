@@ -68,7 +68,7 @@ How many customers does Sizwe have in each province? Return the province and the
 first. 
 ###### Answer 6 -  Customers per province 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%206.jpeg?raw=true)
 
 ###### Question 7 - Performance by SKU 
 For each SKU, return the total units sold, the total revenue, and the average discount percentage. Sort 
