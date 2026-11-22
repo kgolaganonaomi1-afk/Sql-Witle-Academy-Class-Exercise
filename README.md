@@ -57,15 +57,15 @@ Select*
 
 ## Part B - Aggregation
 
-# Question 6 - Customers per province 
+### Question 6 - Customers per province 
 How many customers does Sizwe have in each province? Return the province and the count, largest 
 first. 
-# Answer 6 -  Customers per province 
+### Answer 6 -  Customers per province 
 
-# Question 7 - Performance by SKU 
+### Question 7 - Performance by SKU 
 For each SKU, return the total units sold, the total revenue, and the average discount percentage. Sort 
 by revenue, highest first. Round revenue to two decimals and the average discount to four. 
-# Answer 7 - Performance by SKU 
+#### Answer 7 - Performance by SKU 
 
 # Question 8 - Only the SKUs that matter 
 Take the previous query and keep only the SKUs with total revenue above R50 million. Also return how 
