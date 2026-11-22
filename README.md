@@ -57,7 +57,9 @@ credit limit, showing their ID, trading name, province and limit.
 Return every order placed in June 2025, showing the order ID, customer ID, order date, delivery date 
 and channel, oldest first. 
 ###### Answer 5 - Orders in a single month 
-Select*
+
+![image alt]
+
 
 ## Part B - Aggregation
 
@@ -66,10 +68,14 @@ How many customers does Sizwe have in each province? Return the province and the
 first. 
 ###### Answer 6 -  Customers per province 
 
+![image alt]
+
 ###### Question 7 - Performance by SKU 
 For each SKU, return the total units sold, the total revenue, and the average discount percentage. Sort 
 by revenue, highest first. Round revenue to two decimals and the average discount to four. 
 ###### Answer 7 - Performance by SKU 
+
+![image alt]
 
 ###### Question 8 - Only the SKUs that matter 
 Take the previous query and keep only the SKUs with total revenue above R50 million. Also return how 
