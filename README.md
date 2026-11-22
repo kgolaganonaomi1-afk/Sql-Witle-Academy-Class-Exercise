@@ -156,4 +156,6 @@ percentage change between them. One row per month, in date order.
 Finance wants a single list of every party Sizwe transacts with - wholesale customers and vendors 
 together. Return a type label ('Customer' or 'Vendor'), the ID, the name, and one detail column (province 
 for customers, vendor type for vendors). Sort by type, then name. 
-# Answer 20 - One list of everyone Sizwe trades with 
+###### Answer 20 - One list of everyone Sizwe trades with
+
+
