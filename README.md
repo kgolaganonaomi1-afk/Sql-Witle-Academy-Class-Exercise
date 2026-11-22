@@ -82,11 +82,14 @@ Take the previous query and keep only the SKUs with total revenue above R50 mill
 many order lines each one appears on. 
 ###### Answer 8 - Only the SKUs that matter 
 
+![image alt]https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%208.jpeg?raw=true
+
 ###### Question 9 - Invoicing by month 
 For FY2025 only (1 July 2024 to 30 June 2025), return the number of invoices raised each month and 
 their total value. One row per month, in date order.
 ###### Answer 9 - Invoicing by month 
 
+![image alt]
 ## Part C - Joins
 
 ###### Question 10 - Orders with the customer name 
