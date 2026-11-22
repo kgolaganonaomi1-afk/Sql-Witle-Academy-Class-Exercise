@@ -12,36 +12,46 @@ SQL Class Exercise. Selecting and Filtering. Aggregation. Joins. Subqueries and 
 
 ## Data sets 
 
-Data Sets/
-├── customers.csv
-├── products.csv
-├── sales_orders.csv
-├── sales_lines.csv
-├── ar_ledger.csv
-├── reps.csv
-├── rep_visits.csv
-├── trade_promotions.csv
-└── vendors.csv
+ ├── customers.csv
+ ├── products.csv
+ ├── sales_orders.csv
+ ├── sales_lines.csv
+ ├── ar_ledger.csv
+ ├── reps.csv
+ ├── rep_visits.csv
+ ├── trade_promotions.csv
+ └── vendors.csv
+ 
 ## Part A - Selecting and Filtering
 
 ######  Question 1 - Every product on the price list 
 Nomsa in Finance wants the current price list. Return the SKU, product name, product line and list price 
 for every product, sorted by product line and then by price. 
 ###### Answer 1 - Every product on the price list 
-Select*
+%sql
+Select sku, product name, product line, list price
+From sizwe_products
+Order By product_line, list_price
 
 ###### Question 2 - One product line only 
 A customer has asked what single-origin coffees Sizwe sells. Return the SKU, product name, pack size 
 and list price for every product in the Single Origin line, most expensive first. 
 ###### Answer 2 - One product line only 
-Select*
+%sql
+Select SKU, product name, pack_size, list price
+From sizwe_products
+Where product_line = "Single Origin"
+Order by list_price desc
 
 ###### Question 3 - Wholesale customers in two provinces 
 The sales manager is planning a trip through Gauteng and the Western Cape. Return the customer ID, 
 trading name, province, segment and credit limit for every Wholesale customer in either of those two 
 provinces. Sort by province, then trading name. 
 ###### Answer 3 - Wholesale customers in two provinces 
-Select*
+%sql
+Select customer_id, trading_name
+From Sizwe_customers
+Limit 50
 
 ###### Question 4 - The ten largest credit limits 
 Credit control wants to review the biggest exposures first. Return the ten customers with the highest 
