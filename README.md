@@ -183,7 +183,7 @@ Return the three highest-revenue customers in each province - twenty-four rows i
 province, trading name, revenue and the position within the province. 
 ###### Answer 18 - The top three in each province 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2018.jpeg?raw=true)
 
 ###### Question 19 - Month-on-month movement 
 Return monthly revenue for the whole period, with the previous month's revenue alongside it and the 
