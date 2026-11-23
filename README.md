@@ -118,21 +118,26 @@ their total value. One row per month, in date order.
 The order table stores a customer ID, which nobody can read. Return the twenty most recent orders 
 showing the order ID, order date, customer trading name, province and channel. 
 ###### Answer 10 - Orders with the customer name 
+![image alt]
 
 ###### Question 11 - Revenue by product line 
 Product line lives on products; revenue lives on sales_lines. Return total units and total revenue for 
 each product line, largest first. 
 ###### Answer 11 - Revenue by product line 
+![image alt]
 
 ###### Question 12 - Who has never had promotional support? 
 Return every customer with a count of the trade promotions they have received - including the 
 customers who have received none. Show the twenty with the fewest. 
 ###### Answer 12 - Who has never had promotional support? 
+![image alt]
 
 ###### Question 13 - Revenue by province 
 Province is on customers, the order is on sales_orders, and the money is on sales_lines. Return the 
 number of orders and the total revenue for each province, largest first.
 ###### Answer 13 - Revenue by province 
+![image alt]
+
 
 ## Part D - Subqueries and CTEs
 
@@ -140,16 +145,20 @@ number of orders and the total revenue for each province, largest first.
 Return every customer whose credit limit is above the average credit limit across all customers. Show ID, 
 trading name, province and limit, largest first. 
 ###### Answer 14 - Customers above the average credit limit
+![image alt]
 
 ###### Question 15 - The ten biggest customers 
 Using a CTE to total revenue per customer first, return the top ten customers by all-time revenue with 
 their trading name, province and channel. 
 ###### Answer 15 - The ten biggest customers 
+![image alt]
 
 ###### Question 16 - Customers no rep has ever visited 
 Return every customer who has never appeared in rep_visits. Show their ID, trading name, channel 
 and province.
 ###### Answer 16 - Customers no rep has ever visited 
+![image alt]
+
 
 ## Part E - Window Functions
 
@@ -159,16 +168,20 @@ and province.
 Return the top fifteen customers by all-time revenue with a rank column alongside. Show trading name, 
 province, revenue and rank. 
 ###### Answer 17 - Ranking customers
+![image alt]
 
 ###### Question 18 - The top three in each province 
 Return the three highest-revenue customers in each province - twenty-four rows in total. Show 
 province, trading name, revenue and the position within the province. 
 ###### Answer 18 - The top three in each province 
+![image alt]
 
 ###### Question 19 - Month-on-month movement 
 Return monthly revenue for the whole period, with the previous month's revenue alongside it and the 
 percentage change between them. One row per month, in date order.
 ###### Answer 19 - Month-on-month movement 
+
+![image alt]
 
 ## Part F - Set operations 
 
@@ -178,6 +191,7 @@ together. Return a type label ('Customer' or 'Vendor'), the ID, the name, and on
 for customers, vendor type for vendors). Sort by type, then name. 
 ###### Answer 20 - One list of everyone Sizwe trades with
 
+![image alt]
 
 ## 🔍 Key insights
 
