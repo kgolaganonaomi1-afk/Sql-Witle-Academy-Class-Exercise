@@ -157,7 +157,7 @@ Using a CTE to total revenue per customer first, return the top ten customers by
 their trading name, province and channel. 
 ###### Answer 15 - The ten biggest customers 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2015.jpeg?raw=true)
 
 ###### Question 16 - Customers no rep has ever visited 
 Return every customer who has never appeared in rep_visits. Show their ID, trading name, channel 
