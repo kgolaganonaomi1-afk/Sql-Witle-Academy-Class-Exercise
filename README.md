@@ -150,7 +150,7 @@ Return every customer whose credit limit is above the average credit limit acros
 trading name, province and limit, largest first. 
 ###### Answer 14 - Customers above the average credit limit
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2014.jpeg?raw=true)
 
 ###### Question 15 - The ten biggest customers 
 Using a CTE to total revenue per customer first, return the top ten customers by all-time revenue with 
