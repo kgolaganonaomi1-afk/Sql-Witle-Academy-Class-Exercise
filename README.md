@@ -140,7 +140,7 @@ Province is on customers, the order is on sales_orders, and the money is on sale
 number of orders and the total revenue for each province, largest first.
 ###### Answer 13 - Revenue by province 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2013.jpeg?raw=true)
 
 
 ## Part D - Subqueries and CTEs
