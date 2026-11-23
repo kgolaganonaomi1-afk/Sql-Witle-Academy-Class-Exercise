@@ -176,7 +176,7 @@ Return the top fifteen customers by all-time revenue with a rank column alongsid
 province, revenue and rank. 
 ###### Answer 17 - Ranking customers
 
-![image alt]https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2017.jpeg?raw=true
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2017.jpeg?raw=true)
 
 ###### Question 18 - The top three in each province 
 Return the three highest-revenue customers in each province - twenty-four rows in total. Show 
