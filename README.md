@@ -124,7 +124,7 @@ showing the order ID, order date, customer trading name, province and channel.
 Product line lives on products; revenue lives on sales_lines. Return total units and total revenue for 
 each product line, largest first. 
 ###### Answer 11 - Revenue by product line 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2011.jpeg?raw=true)
 
 ###### Question 12 - Who has never had promotional support? 
 Return every customer with a count of the trade promotions they have received - including the 
