@@ -27,7 +27,7 @@ The full dataset contains 9 CSV files.
 | `trade_promotions` | 640 | Promotional support given to a customer on a SKU |
 | `vendors.csv` | 74 | Suppliers - type, payment terms |
 
-## How the tables connect.
+## How the tables connect
 
 • sales_orders.customer_id → customers.customer_id
 
