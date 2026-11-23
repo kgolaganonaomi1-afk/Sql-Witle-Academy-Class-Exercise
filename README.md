@@ -118,7 +118,7 @@ their total value. One row per month, in date order.
 The order table stores a customer ID, which nobody can read. Return the twenty most recent orders 
 showing the order ID, order date, customer trading name, province and channel. 
 ###### Answer 10 - Orders with the customer name 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2010.jpeg?raw=true)
 
 ###### Question 11 - Revenue by product line 
 Product line lives on products; revenue lives on sales_lines. Return total units and total revenue for 
