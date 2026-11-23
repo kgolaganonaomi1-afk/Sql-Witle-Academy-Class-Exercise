@@ -210,6 +210,8 @@ for customers, vendor type for vendors). Sort by type, then name.
 ## 📬 References
 
 🔗[DAX function reference](https://learn.microsoft.com/dax/)
+Witle-SQL-Fundamentals-Vol1.pdf
+
 
 📘[Nova Retail Group — Sales Analytics by Clarence Mantiya](https://github.com/Clarence-Mantiya/test-project2/blob/main/README.md?plain=1) for Github layout
 
