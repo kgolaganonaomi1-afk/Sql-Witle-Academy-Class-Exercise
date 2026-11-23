@@ -1,26 +1,46 @@
-## Sql-Witle-Academy-Class-Exercise
-SQL Class Exercise. Selecting and Filtering. Aggregation. Joins. Subqueries and CTEs. Window Functions
+## Witle Academy SQL Class Exercise
+
+## 🗺️ SQL Class Exercise overview:
+Selecting and Filtering. Aggregation. Joins. Subqueries and CTEs. Window Functions
 
 ## 20 Questions
 
 # Table of Contents
-## Part A - Selecting and Filtering
-## Part B - Aggregation
-## Part C - Joins
-## Part D - Subqueries and CTEs
-## Part E - Window Functions
+###### Part A - Selecting and Filtering
+###### Part B - Aggregation
+###### Part C - Joins
+###### Part D - Subqueries and CTEs
+###### Part E - Window Functions
 
-## Data sets 
+## 📦 The dataset
+The full dataset contains 9 CSV files.
 
- ├── customers.csv
- ├── products.csv
- ├── sales_orders.csv
- ├── sales_lines.csv
- ├── ar_ledger.csv
- ├── reps.csv
- ├── rep_visits.csv
- ├── trade_promotions.csv
- └── vendors.csv
+| File | Rows | Description |
+| ----------------------- | ------- | ---------------------------------------------------- |
+| `customers.csv` | 1,400 | One row per customer - name, channel, segment, province, credit limit, assigned sales,representative  |
+| `products.csv` | 23 | One row per SKU - product line, pack size, list price, unit cost  |
+| `sales_orders.csv` | 45,144 |  One row per order - customer, order date, delivery date, channel, sales representative |
+| `sales_lines.csv` | 168,172 | One row per order line - SKU, units, unit price, discount, line revenue, cost of goods  |
+| `ar_ledger` | 48,144 |  One row per customer invoice - amount, due date, amount settled, settlement date |
+| `reps.csv` | 18 | Sales representatives - territory, monthly target |
+| `rep_visits.csv` | 9,400 | Visits made by sales representatives to customers, with the outcome |
+| `trade_promotions` | 640 | Promotional support given to a customer on a SKU |
+| `vendors.csv` | 74 | Suppliers - type, payment terms |
+
+## How the tables connect.
+
+• sales_orders.customer_id → customers.customer_id
+
+• sales_orders.order_id → sales_lines.order_id
+
+• sales_lines.sku → products.sku
+
+• sales_orders.rep_id and customers.rep_id → reps.rep_id
+
+• ar_ledger.customer_id → customers.customer_id
+
+• rep_visits.customer_id and trade_promotions.customer_id → customers.customer_id
+
  
 ## Part A - Selecting and Filtering
 
@@ -157,5 +177,25 @@ Finance wants a single list of every party Sizwe transacts with - wholesale cust
 together. Return a type label ('Customer' or 'Vendor'), the ID, the name, and one detail column (province 
 for customers, vendor type for vendors). Sort by type, then name. 
 ###### Answer 20 - One list of everyone Sizwe trades with
+
+
+## 🔍 Key insights
+
+----
+
+
+## 📬 References
+
+🔗[DAX function reference](https://learn.microsoft.com/dax/)
+
+📘[Nova Retail Group — Sales Analytics by Clarence Mantiya](https://github.com/Clarence-Mantiya/test-project2/blob/main/README.md?plain=1) for Github layout
+
+
+---
+
+## ⭐ Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kgolagano-naomi-selebano/
+- 📧 Email: kgolaganonaomi1@gmail.com
 
 
