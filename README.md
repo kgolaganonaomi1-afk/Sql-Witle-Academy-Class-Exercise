@@ -190,7 +190,7 @@ Return monthly revenue for the whole period, with the previous month's revenue a
 percentage change between them. One row per month, in date order.
 ###### Answer 19 - Month-on-month movement 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2019.jpeg?raw=true)
 
 ## Part F - Set operations 
 
