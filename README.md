@@ -164,7 +164,7 @@ Return every customer who has never appeared in rep_visits. Show their ID, tradi
 and province.
 ###### Answer 16 - Customers no rep has ever visited 
 
-![image alt]
+![image alt]https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2016.jpeg?raw=true
 
 
 ## Part E - Window Functions
