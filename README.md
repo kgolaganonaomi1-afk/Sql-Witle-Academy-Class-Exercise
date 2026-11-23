@@ -200,8 +200,8 @@ together. Return a type label ('Customer' or 'Vendor'), the ID, the name, and on
 for customers, vendor type for vendors). Sort by type, then name. 
 ###### Answer 20 - One list of everyone Sizwe trades with
 
-![image alt]
-
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%2020%20A.jpeg?raw=true)
+![image alt](
 ## 🔍 Key insights
 
 ----
