@@ -64,7 +64,7 @@ trading name, province, segment and credit limit for every Wholesale customer in
 provinces. Sort by province, then trading name. 
 ###### Answer 3 - Wholesale customers in two provinces 
 
-![image alt]
+![image alt](https://github.com/kgolaganonaomi1-afk/Sql-Witle-Academy-Class-Exercise/blob/main/SQL%20Class%20Exer%20Answer%203.jpeg?raw=true)
 
 ###### Question 4 - The ten largest credit limits 
 Credit control wants to review the biggest exposures first. Return the ten customers with the highest 
